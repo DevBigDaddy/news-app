@@ -1,5 +1,5 @@
 Comment utiliser l'application Recherche d'Articles :
-1. Double-cliquez sur ui.exe.
+1. Double-cliquez sur ui.exe après l'avoir téléchargé.
 2. Obtenez une clé API gratuite sur https://newsapi.org/.
 3. Entrez la clé dans "Clé API NewsAPI" et cliquez sur "Valider".
 4. Saisissez un sujet (ex. : "crypto", "trump") dans "Rechercher un sujet" et cliquez sur "Rechercher".
